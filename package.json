@@ -1,6 +1,6 @@
 {
-  "name": "@codelytv/vite-react_best_practices-template",
-  "author": "codelytv",
+  "name": "React desde 0 Con buenas prácticas.",
+  "author": "CesarCMa",
   "license": "MIT",
   "private": true,
   "version": "1.0.0",
@@ -93,6 +93,7 @@
     "stylelint-config-standard-scss": "^3.0.0",
     "stylelint-order": "^5.0.0",
     "typescript": "^4.9.5",
-    "vite": "^4.2.1"
+    "vite": "^4.2.1",
+    "vite-plugin-svgr": "^4.3.0"
   }
 }
