@@ -3,7 +3,7 @@ interface RootObject {
   pullRequest: PullRequest[];
 }
 
-interface PullRequest {
+ export interface PullRequest {
   url: string;
   id: number;
   node_id: string;
@@ -282,7 +282,7 @@ interface Requestedteam {
   parent: null;
 }
 
-interface RepositoryData {
+export interface RepositoryData {
   id: number;
   node_id: string;
   name: string;
